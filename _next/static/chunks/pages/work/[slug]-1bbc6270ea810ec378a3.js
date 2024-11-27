@@ -1,0 +1,1 @@
+_N_E=(window.webpackJsonp_N_E=window.webpackJsonp_N_E||[]).push([[29],{KiIM:function(_,n,w){(window.__NEXT_P=window.__NEXT_P||[]).push(["/work/[slug]",function(){return w("2vuk")}])}},[["KiIM",0,1,8,5,2,3,4,6,7]]]);

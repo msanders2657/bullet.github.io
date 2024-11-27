@@ -1,0 +1,1 @@
+_N_E=(window.webpackJsonp_N_E=window.webpackJsonp_N_E||[]).push([[22],{dqAo:function(n,_,o){(window.__NEXT_P=window.__NEXT_P||[]).push(["/people",function(){return o("2ezn")}])}},[["dqAo",0,1,8,5,2,3,4,6,7]]]);
